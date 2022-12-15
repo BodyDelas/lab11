@@ -1,0 +1,50 @@
+.right {
+  /* width: 80vw; */
+  padding-top: 100px;
+  font-size: 20px;
+}
+
+table {
+  border-collapse: collapse;
+}
+td {
+  border: 1px solid #000;
+  padding: 5px;
+}
+
+.count {
+  cursor: pointer;
+  font-style: initial;
+}
+.count:hover {
+  background-color: rgb(194, 194, 194);
+  border-radius: 10px;
+  padding: 2px;
+}
+
+.right a {
+  color: #000;
+}
+
+.big-font {
+  font-size: 25px;
+}
+
+.block .el {
+  display: inline-block;
+  width: 110px;
+  border: 1px solid #000;
+  margin: 2px;
+  padding: 2px;
+}
+
+.col {
+  width: 150px;
+  border: 1px solid #000;
+  margin: 2px;
+  padding: 2px;
+}
+
+.wrap-col {
+  display: inline-block;
+}

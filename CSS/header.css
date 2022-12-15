@@ -1,0 +1,40 @@
+header {
+  background-color: #000;
+  height: 10vh;
+}
+
+.nav-btn {
+  min-width: 150px;
+  background-color: rgb(201, 201, 201);
+  padding: 10px;
+  margin: 10px;
+  color: rgb(0, 0, 0);
+  float: left;
+  border-radius: 15px;
+  text-align: center;
+  margin-top: 30px;
+  cursor: pointer;
+}
+.nav-btn:hover {
+  background-color: rgb(96, 96, 96);
+}
+
+.name {
+  align-items: end;
+  color: #fff;
+  float: right;
+  padding: 40px;
+}
+
+.nav-selected {
+  min-width: 150px;
+  background-color: rgb(108, 108, 108);
+  padding: 10px;
+  margin: 10px;
+  color: rgb(0, 0, 0);
+  float: left;
+  border-radius: 15px;
+  text-align: center;
+  margin-top: 30px;
+  cursor: pointer;
+}
